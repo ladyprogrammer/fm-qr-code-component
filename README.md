@@ -25,8 +25,8 @@ This is the desktop view of the site.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to view respository](https://github.com/ladyprogrammer/fm-qr-code-component)
+- Live Site URL: [Click to view site](https://fm-qr-code-component-delta.vercel.app/)
 
 
 
@@ -43,7 +43,7 @@ Doing away with old 62.5% rem font hack, used calc() instead.
 
 ### Continued development
 
-I will still be focusing on Angular. I am just trying to keep up with the latest developments in frontend and its best practices. Although I am doing Angular professionally, eventually I plan to learn React as there is a transition of projects towards this skill as well.
+My focus is still on Angular as I am doing projects using this skill professionally. I am doing the Frontend Mentor challenges to keep up with the latest developments in frontend development - having UI already available takes away the need for me to find more samples. As part of continuous learning I plan to learn more frontend frameworks such as React as well as keep up with the backend technologies.
 
 ### Useful resources
 
@@ -52,5 +52,5 @@ I will still be focusing on Angular. I am just trying to keep up with the latest
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ladyprogrammer)
+- Frontend Mentor - [Gem](https://www.frontendmentor.io/profile/ladyprogrammer)
 
